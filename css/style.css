@@ -1,0 +1,93 @@
+<link rel="stylesheet" href="https://use.typekit.net/zwk8blf.css">
+
+.nav {
+    display: flex;
+    background-color: black;
+    padding: 20px;
+  }
+
+.left,.logo,.right {
+    height: 100x;
+    display:flex;
+    align-items: center;
+}
+
+.left,.right, {
+    width:44%;
+}
+
+.logo {
+    width: 10%;
+    background: white;
+    height: 100px;
+    background-image: url("../images/logo.png");
+    background-repeat:  no-repeat;
+    background-position: center;
+    align-content: center;
+}
+
+.left {
+    font-family: filosofia-all-small-caps, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.left a {
+    padding:10px
+}
+
+.right { font-family: filosofia-all-small-caps, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 22px;
+    text-decoration:none;
+}
+
+.right a {
+    padding:10px
+}
+
+#hi {
+    padding-top: 30px;
+    padding-bottom: -10px;
+}
+
+h1 {   
+    font-family: filosofia-all-small-caps, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 22px;
+    color: #282828;
+    padding-top: -10px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color:#282828;
+    padding-bottom: 30px;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+button {
+    padding:10px;
+}
